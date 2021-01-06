@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CSCI 447-Machine Learnng: Practice and Theory"
+title                    : "CSCI 447-Machine Learning: Practice and Theory"
 title_separator          : "-"
 name                     : &name "Nguyen Anh Tu"
 description              : &description "personal description"
