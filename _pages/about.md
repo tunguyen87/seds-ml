@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "CSCI 447 Machine Learning: Theory and Practice"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
