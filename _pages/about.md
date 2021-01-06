@@ -10,8 +10,8 @@ redirect_from:
 Spring 2021
 
 Instructor: Prof. Nguyen Anh Tu
-
 ======
+
 - **Classtime:** Tuesday and Thursday 10:30-11:45
 - **Class location:** Online
 - **Office hours:** TBA
