@@ -7,44 +7,85 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Spring 2021
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Instructor: Prof. Nguyen Anh Tu
 
-A data-driven personal website
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- **Classtime:** Tuesday and Thursday 10:30-11:45
+- **Class location:** Online
+- **Office hours:** TBA
+- **Email:** tu.nguyen@nu.edu.kz
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Course Description
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+During this course students will be introduced to a variety of machine learning algorithms and techniques. Particular emphasis will be placed on understanding the theoretical basis. By the end of the course, students will be able to derive most commonly used methods mathematically from first principles and therefore have a firm grasp of the underlying theory. In addition, students will also be asked to implement various machine learning techniques from scratch in python during coding tutorials and thus also learn practical applications of the theoretical concepts.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**Due to COVID-19, this spring we will be conducting the course solely online... there will be no "in person" meetings. The online materials which I have created are the primary content for the course, and your primary interactions with the instuctor will be via Piazza.**
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Course aims
+======
+The aims of the course are:
+1.	familiarize students with most common machine learning techniques. These will include techniques from supervised learning as well as unsupervised learning.
+1.	to enable students identify the right method of analysis for any type of dataset 
+1.	to apply a suitable method and interpret it’s outcome meaningfully
+1.	to understand the benefits and limits of a specific technique
 
-**Markdown generator**
+Course learning outcomes 
+======
+By the end of the course the student will be expected to be able:
+1.	have the required mathematical basis to study machine learning
+1.	to derive a whole range of machine learning techniques from first principles
+1.	to understand their theoretical basis and assumptions these may have
+1.	to implement a range of machine learning techniques themselves in python from scratch
+1.	to identify appropriate techniques for a given dataset
+1.	to validate their approach, e.g. by means of cross-validation
+1.	to understand the bias-variance trade-off (i.e. overfitting/underfitting) 
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Pre-requisites
+======
+A good working knowledge of Python, Linear algebra, Vector calculus, and basic probability/statistics (i.e., MATH 273 and MATH 321).
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Course materials
+======
+The primary course resources are provided online via the CSCI 447 webpages which contain video lessons, lecture slides, practice exercises, notes, and further readings created by the instructor, as well as links to off-site resources.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+We will also be using the Piazza platform for handling general questions and answers from students.
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+We do not have a regular textbook for the course, though the following may be used as an occasional reference: 
+- Murphy, Kevin P. “Machine learning: a probabilistic perspective”. MIT press, 2012.
+- Christopher M. Bishop. Pattern Recognition and Machine Learning (Information Science and Statistics). Springer-Verlag New York, Inc., 2006.
+- Trevor Hastie, Robert Tibshirani, Jerome Friedman, T Hastie, J Friedman and R Tibshirani. The elements of statistical learning. Springer, 2009.
+- Richard O Duda, Peter E Hart, and David G Stork. Pattern classication. John Wiley & Sons, 2012
+- Deep Learning(https://www.deeplearningbook.org/), by Goodfellow, Bengio, and Courville.
+- State-of-the-art paper readings
+
+Course structure
+======
+This semester, the course will be completely online. The pages linked from the “Lecture Schedule” page provide materials for the individual lessons, which consist of on-line videos and/or readings.  Given that we do not have in-person lectures to help keep you on schedule, you will need to pay particular attention to when you need to go through the posted lesson materials according to the schedule, and properly pace yourself. Since we do not have in-person lectures, students are primarily responsible for getting help from the instructor (or TAs) when they are having difficulties. The best place to do this in Piazza, either by posting “publically” or “private to instructors”.  Note that you are not allowed to post your own assignment code to Piazza, so such questions must always be “prviate to instructors”.  Also, students are strongly encouraged to take part in discussions on Piazza, and help answer general questions…. just do not post code or give out answers to the assignments.
+
+**Assignments.** Five assignments will be given every two or three weeks with both written and programming parts. Each assignment is centered around an application and will also deepen your understanding of the theoretical concepts. Particularly, programming assignments will be closely related to the material covered in the lectures. They must be submitted before the given deadline to Moodle, otherwise you will receive no credit for the assignment. If you are caught plagiarizing code from other students, or use code obtained online, or get unauthorized help from others, you will get a zero for the programming assignment. Written assignments should be written up clearly and concisely. You may lose points if your answers are unclear or unnecessarily complicated.
+
+**Final/Midterm exam.** We will be having an online Moodle exam. Students cannot use notes, books, software, or other online materials or aids (e.g., an IDE) during the quiz. In some instances, we may allow the use of scratch paper to help you work out your solutions. The individual quizzes will be cumulative in the material covered up to the current point in the schedule. You will be required to record yourself during the exam so we can see both you and your computer desktop. Further details will be provided on Piazza about how to install the proper software, and what procedures you need to follow. 
+
+Assessment
+======
+Your final grade will be calculated as follows:
+- Assignments: 30%
+- Presentation: 10%
+- Midterm-Exam: 20%
+- Final term project: 40%
+
+Final letter grades will be assigned using the following:
+- A :     95 or above
+- A-:    90 up to 95
+- B+:    85 up to 90
+- B :    80 up to 85
+- B-:    75 up to 80
+- C+:    70 up to 75
+- C :    65 up to 70
+- C-:    60 up to 65
+- D+:    55 up to 60
+- D :    50 up to 55
+- F :    0 up to 50
+
