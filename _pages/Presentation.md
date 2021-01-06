@@ -1,6 +1,6 @@
 ---
-permalink: /Homeworks/
-title: "Homeworks"
+permalink: /Presentation/
+title: "Presentation"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
 redirect_from: 
