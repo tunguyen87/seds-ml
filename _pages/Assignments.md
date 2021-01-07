@@ -1,6 +1,6 @@
 ---
 permalink: /Assignments/
-title: "Programming Assignments"
+title: "Assignments"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
 redirect_from: 
