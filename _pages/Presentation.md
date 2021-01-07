@@ -7,6 +7,7 @@ redirect_from:
   - "/nmp/"
   - "/nmp.html"
 ---
+During the course, each participant will have to present a specific topic in machine learning. We will use video recording and slides as the way for student to present and share their selected topics. These can be classical/recent research papers and advanced techniques. Students can be as creative as they like for their presentations.
 
 Presentation topics
 ======
