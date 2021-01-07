@@ -9,7 +9,7 @@ redirect_from:
 ---
 Spring 2021
 
-Instructor: Prof. Nguyen Anh Tu
+Instructor: [Prof. Nguyen Anh Tu](https://tunguyen87.github.io/homepage)
 ======
 
 - **Classtime:** Tuesday and Thursday 10:30-11:45
