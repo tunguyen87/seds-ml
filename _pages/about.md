@@ -75,8 +75,8 @@ Assessment
 Your final grade will be calculated as follows:
 - Assignments: 30%
 - Presentation: 10%
-- Midterm-Exam: 20%
-- Final term project: 40%
+- Midterm Exam: 20%
+- Final Exam: 40%
 
 Final letter grades will be assigned using the following:
 - A :     95 or above
