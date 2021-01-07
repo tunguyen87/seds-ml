@@ -23,17 +23,17 @@ Last day of classes: April 23
 | Lecture 3<br>(**A1**)    |   2   |January 19-21 | **Math review**                       |                    |          |              |
 | Lecture 4    |   3   |January 26    | **Linear regression**                  |                    |          |              |
 | Lecture 5    |   3   |January 28    | **Simple classifiers**                 |                    |          |              |
-| Lecture 6(**A2**)    |   4   |February 2-4  | **LDA**                    |                    |          |              |
+| Lecture 6<br>(**A2**)    |   4   |February 2-4  | **LDA**                    |                    |          |              |
 | Lecture 7    |   5   |February 9    |   **Logistic regression**                    |                    |          |              |
 | Lecture 8   |   5   |February 11    |   **Bias-Variance, regularization**                    |                    |          |              |
-| Lecture 9(**A3**)   |   6   |February 16    |   **Optimization basics**                    |                    |          |              |
+| Lecture 9   |   6   |February 16    |   **Optimization basics**                    |                    |          |              |
 | Lecture 10   |   6   |February 18    |   **Gradient descent**                    |                    |          |              |
-| Lecture 11   |   7   |February 23-25    |   **Support Vector Machine**                    |                    |          |              |
+| Lecture 11<br>(**A3**)   |   7   |February 23-25    |   **Support Vector Machine**                    |                    |          |              |
 | Lecture 12   |   8   |March 2-4    |     **Intro to Neural Network**                  |                    |          |              |
 | No Lecture   |   8   |March 4    | **Midterm**                       |                    |          |              |
 | Lecture 13   |   9   |March 9-11    |   **Training Neural Network 1**        |                    |          |              |
-| Lecture 14(**A4**)   |   10  |March 16-18    |  **Training Neural Network 2**                    |                    |          |              |
+| Lecture 14<br>(**A4**)   |   10  |March 16-18    |  **Training Neural Network 2**                    |                    |          |              |
 | Lecture 15   |   11  |March 30-April 1  |    **(Kernel) PCA**                  |                    |          |              |
 | Lecture 16   |   12   |April 6-8    |   **Matrix Factorizations**                    |                    |          |              |
-| Lecture 17(**A5**)   |   13   |April 13-15  |   **Clustering**                    |                    |          |              |
+| Lecture 17<br>(**A5**)   |   13   |April 13-15  |   **Clustering**                    |                    |          |              |
 | Lecture 18   |   14   |April 20-22    |  **Revision for final exam**                     |                    |          |              |
