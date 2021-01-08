@@ -73,10 +73,10 @@ This semester, the course will be completely online. The pages linked from the â
 Assessment
 ======
 Your final grade will be calculated as follows:
-- Assignments: 30%
+- Assignments: 35%
 - Presentation: 10%
 - Midterm Exam: 20%
-- Final Exam: 40%
+- Final Exam: 35%
 
 Final letter grades will be assigned using the following:
 - A :     95 or above
