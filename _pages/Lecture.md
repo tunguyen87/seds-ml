@@ -23,7 +23,7 @@ Last day of classes: April 23
 | Lecture 3<br>(**A1**)    |   2   |January 19-21 | **Math review**                   | [Wonderful animated explanations](https://www.3blue1brown.com/essence-of-linear-algebra-page)<br>[Linear algebra review](https://drive.google.com/file/d/1yDlYpuv4XShqL96LqB_Un5n8UTbWZIeh/view?usp=sharing)<br>[Probability review](https://drive.google.com/file/d/1MtFT9Ra5cdEw5TA6FN6UzuKeOjZp0OKM/view?usp=sharing)           |  [Lecture slide](https://drive.google.com/file/d/11eVI_4OMR_enuPq70-_fbX2qcMe25cFD/view?usp=sharing)      |  [Video-part 1](https://youtu.be/4Rx8YFcwMlM) <br>[Video-part 2](https://youtu.be/IjsEmM-MzxQ)  <br>[Tutorial 1](https://drive.google.com/file/d/1iz0BYnwdI71Qi-v8aFz-7fFs3KKGf9-b/view?usp=sharing)         |
 | Lecture 4    |   3   |January 26    | **Linear regression**                  |                    |          |              |
 | Lecture 5    |   3   |January 28    | **Bias-Variance, regularization**                 |                    |          |              |
-| Lecture 6<br>(**A2**)    |   4   |February 2-4  | **Simple classifiers**                    |                    |          |              |
+| Lecture 6<br>(**A2**)    |   4   |February 2-4  | **Simple classification**                    |                    |          |              |
 | Lecture 7    |   5   |February 9    |   **LDA**                    |                    |          |              |
 | Lecture 8   |   5   |February 11    |   **MLE, MAP**                    |                    |          |              |
 | Lecture 9   |   6   |February 16    |   **Logistic regression**                    |                    |          |              |
