@@ -37,6 +37,6 @@ Last day of classes: April 23
 | No Lecture   |       |March 23-25   |    **Additional readings**               | [Matrix calculus](https://drive.google.com/drive/folders/1333Nyf4ch13JF2EP5c1CjV7eqcYPEuxl?usp=sharing) <br> [A3-writing-solution](https://drive.google.com/file/d/1yI3itYhVueS_iE-9vppZePc0FkJtkw_h/view?usp=sharing) <br> [Backprop-practice](https://drive.google.com/file/d/18QoGY2v1vx-zctd2yq9vMYn9i5dqNj26/view?usp=sharing)         |          |              |
 | Lecture 15   |   11  |March 30 |    **Training Neural Network - part II**                  |          | [Lecture slide](https://drive.google.com/file/d/1xAIO6C2YtozibELAdrxthm1YkZ4J7DhG/view?usp=sharing)         | [Video](https://youtu.be/OhyIR174IPw) <br>[Tutorial 8](https://drive.google.com/file/d/1kXvlY0H4wHe80XfhAOzLuPEPciBdRhLi/view?usp=sharing)         |
 | Lecture 16   |   11  |April 1  |    **(Kernel) PCA**                  |                    |          |              |
-| Lecture 17   |   12   |April 6-8    |   **Matrix Factorizations**                    |                    |          |              |
-| Lecture 18<br>(**A5**)   |   13   |April 13-15  |   **Clustering**                    |                    |          |              |
+| Lecture 17<br>(**A5**)   |   12   |April 6-8  |   **Clustering**                    |                    |          |              |
+| Lecture 18   |   13   |April 13-15    |   **Matrix Factorizations (optional)**                    |                    |          |              |
 | No Lecture    |   14   |April 20-22    |  **Revision for final exam**                     |                    |          |              |
